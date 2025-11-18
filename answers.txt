@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort.
+
+How do you know?: on the reversed50000.txt list , sort1 took 4.984s; on the sorted the same size list it took 0.519s. This showes how sensetive this algorithm to input. This pattern matches to bubble sort.
+
+sort2 uses: Merge sort.
+
+How do you know?: comparing the provided lists(random, reversed and sorted), especially across the reversed list with its all sizes(5000 10000 and 50000) sort2 showes insignificant slow growth; also in reversed 50000 list sort2 took 0.559s and in sorted the same size list it took 0.709s.
+
+sort3 uses: Selection sort
+
+How do you know?: comparing the provided lists(random, reversed and sorted), especially across the reversed list with its all sizes(5000 10000 and 50000) sort3 showes steady faster growth as input'scheck size is increases; also on the reversed50000 list , sort3 took 2.772 and it stayed consistant with sorted50000 list where it took 2.394s
