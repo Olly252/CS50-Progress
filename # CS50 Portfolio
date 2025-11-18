@@ -1,0 +1,17 @@
+This repository contains examples of C programs I wrote while studying a computer science course. 
+They include tasks involving loops, conditionals, arrays, algorithms, pointers, and data structures such as typedef. 
+These tasks helped me practice basic programming concepts and problem-solving.
+
+## Topics I learned and practiced
+- variables and data types
+- loops (for, while)
+- conditionals (if / else)
+- functions
+- arrays and strings
+- algorithms (searching, sorting logic, recursion)
+- command-line arguments
+- working with memory blocks
+- debugging and testing
+
+## About the tasks
+Each file has a short description explaining what the program does.  
